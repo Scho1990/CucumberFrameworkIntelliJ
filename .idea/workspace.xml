@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dae9cd60-844e-4c9c-afac-3af263d4495d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/OrangeHRMLoginPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/OrangeHRMLoginPage.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,7 @@
       <workItem from="1584033807300" duration="3219000" />
       <workItem from="1584040481113" duration="1027000" />
       <workItem from="1584195979559" duration="3078000" />
-      <workItem from="1584265161460" duration="940000" />
+      <workItem from="1584265161460" duration="1623000" />
     </task>
     <servers />
   </component>
@@ -138,6 +138,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584035173095" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1584267126534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584267126534" />
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584265193994">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
