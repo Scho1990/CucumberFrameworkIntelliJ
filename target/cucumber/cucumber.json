@@ -1,0 +1,84 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-03-14T15:27:20.414Z",
+        "line": 3,
+        "name": "Login into website using valid username and password",
+        "description": "",
+        "id": "login-page-features;login-into-website-using-valid-username-and-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 41307000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I launch the browser",
+            "match": {
+              "location": "stepDefinitions.OrangeHRMLoginPage.i_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5688000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I enter my valid username and password",
+            "match": {
+              "location": "stepDefinitions.OrangeHRMLoginPage.i_enter_my_valid_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4039000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on login button",
+            "match": {
+              "location": "stepDefinitions.OrangeHRMLoginPage.i_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5030000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be able to login into website",
+            "match": {
+              "location": "stepDefinitions.OrangeHRMLoginPage.i_should_be_able_to_login_into_website()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3343000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "close browser",
+            "match": {
+              "location": "stepDefinitions.OrangeHRMLoginPage.close_browser()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Login Page features",
+    "description": "",
+    "id": "login-page-features",
+    "keyword": "Feature",
+    "uri": "file:features/OrangeHRMLoginPage.feature",
+    "tags": []
+  }
+]
