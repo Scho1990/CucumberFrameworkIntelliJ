@@ -1,4 +1,4 @@
-Feature: Login Page functionalities
+Feature: OrangeHRM Login Page functionalities 
 
   Scenario: Login into website using valid username and password
     Given I launch the browser
